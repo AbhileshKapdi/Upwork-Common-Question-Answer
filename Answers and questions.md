@@ -179,13 +179,117 @@ Photoshop, Designing, HTML5, CSS3, jQuery, Java Script, Bootstrap, PHP and WordP
 
 
 
-<b></b>
+<b>Are you available for a video call?</b>
 
-<p></p>
+<p>Yes, I'm available for any communication medium, Where my client would be happy.</p>
 
 
 
-<b></b>
+<b>Are you an expert at pixel-perfect, responsive design?</b>
 
-<p></p>
+<p>We are in this field for more than 10 years, thus we can say that we are experts as we have experience and also getting more day by day.</p>
 
+
+
+<b>Have you worked on any large-scale production level Laravel applications?</b>
+
+<p>Yes, I have, I have to built Laravel APIs for a Jobsite that had over million searches in a month. Unfortunately, that startup could not survive covid. In that project I had used AWS cloud search for searching jobs with keywords. All the APIs were build on microservices.</p>
+
+
+
+<b>Can you work directly on a remote PC? If yes, what remote application you use to use?</b>
+
+<p>Sorry to inform you that I am unable to work in this manner due mainly to previous experiences.</p>
+
+
+
+<b>Can you commit 40/hrs a week?</b>
+
+<p>Yes, I agree to work 40 hours per week because it is my typical work schedule.</p>
+
+
+
+<b>From where will you get copyright-free illustrations, graphics, images for creating attractive website?</b>
+
+<p>We can use Lottie, Freepik, and other free illustrations.
+Furthermore, I have got a great team of designers and UI/UX, Who can help with this.
+</p>
+
+
+
+<b>What WordPress Plugins have you created? (ADD LINKS)</b>
+
+<p>I've created a lot of plugins, ranging from simple to complicated, but they are all NDA-protected.
+As a result, I am unable to disclose it at this time.</p>
+
+
+
+<b>Please list any certifications related to this project?</b>
+
+<p>Although we don't currently hold this kind of accreditation, we are working on it and anticipate obtaining it soon.</p>
+
+
+
+<b>Which plugins have you used / have you build a direct integration ?</b>
+
+<p>Yes, I have built plugins with direct integration.
+Furthermore, We have experience in using many plugins like Elementor, WooCommerce, Wordfence, AIOSEO, WPForms, LiteSpeed Cache, & MemberPress.</p>
+
+
+
+<b>
+What skills are you currently working on developing further?</b>
+
+<p>I'm actively studying Web3 platforms, NFTs, and Blockchain programming to enhance my skills.</p>
+
+
+
+<b>What frameworks have you worked with?</b>
+
+<p>I have worked with Laravel, Symfony, CodeIgniter, Bootstrap, and the fundamentals of Phalcon and React.js, all of which are consistent with your requirements. I also have hands-on experience with databases like MySQL, MongoDB, AWS, PostgreSQL, and others.
+For python : Flask, Django,React.js, Rest(DRF)</p>
+
+
+
+<b>Describe your recent experience with similar projects</b>
+
+<p>Here are some of our recent projects for your reference: 
+↳(add links) 
+Also, can look at our past work from an attached file if you wish.</p>
+
+
+
+<b>Include a link to your GitHub profile and/or website</b>
+
+<p>Here is our website https://latitudetechnolabs.com/ We Can't share our Git profile as it is NDA protected.
+ 
+I have attached portfolio & here is a link to our site as the git profile has NDA-protected projects!
+↳(add links)</p>
+
+<p>At this point of discussion, I can't share my git profile to show you my coding skills as it is NDA Protected.
+We can share it at the time of project commencement.
+
+But here is a link to our site: (add links)
+ 
+moreover, I'm ready to give a paid test to show you my skills.</p>
+
+
+
+<b>What is your strongest skill?</b>
+
+<p>I carefully studied your job description and have over a decade of experience in both of your required skills, WordPress and PHP. And I am the best qualified to meet all of your needs. I aim to be the best employee for you on this assignment.</p>
+
+
+
+
+
+<b>Describe your approach to testing and improving QA?</b>
+
+<p>We employ the Manual AGILE Methodology since I have a team of testers.</p>
+
+
+
+
+<b>We initially try out new developers with a fixed price test project before switching to hourly work. Will you be ok with this?</b>
+
+<p>We will be happy to give paid test as you can see our performance and we can test our skills for your project too.</p>
