@@ -261,10 +261,10 @@ Also, can look at our past work from an attached file if you wish.</p>
 
 <b>Include a link to your GitHub profile and/or website</b>
 
-<p>Here is our website https://latitudetechnolabs.com/ We Can't share our Git profile as it is NDA protected.
+<p>Here is our website (add link to your site) We Can't share our Git profile as it is NDA protected.
  
 I have attached portfolio & here is a link to our site as the git profile has NDA-protected projects!
-↳(add links)</p>
+	↳(add links)</p>
 
 <p>At this point of discussion, I can't share my git profile to show you my coding skills as it is NDA Protected.
 We can share it at the time of project commencement.
