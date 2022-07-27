@@ -357,8 +357,10 @@ Our group consists of programmers. More than 100 developers, designers, & Tester
 <b>What are the 3 Major things to ensure that website projects/tasks can be completed & delivered on time base on the clients target date? Please share your process & experience.</b>
 
 <p>1. Separate jobs into equal milestones.
-	2. Assign daily responsibilities and keep track of daily updates.
-	3. Following the completion of each milestone, we seek a review of work and input, and we begin working on the next milestone. When we get a change in finished work, bench resources work on it so that ongoing work is not impacted.
+
+2. Assign daily responsibilities and keep track of daily updates.
+
+3. Following the completion of each milestone, we seek a review of work and input, and we begin working on the next milestone. When we get a change in finished work, bench resources work on it so that ongoing work is not impacted.
 
 This way, we avoid delivery delays and always meet our deadlines.</p>
 
