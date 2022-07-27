@@ -315,3 +315,55 @@ I write in a freestyle manner. This is the most comfortable design for me, toget
 
 3. Being grateful for the feedback- Thanking people for their valuable feedback and opinion is necessary because it makes them feel important. Being enthusiastic about receiving feedback and ways to improve is important.</p>
 
+
+
+<b>Share situational challenges related to website development that your company has encountered and how did you go about solving it.</b>
+
+<p>Website development issues are increasingly prevalent since customers have unique requirements and technology evolves on a daily basis, but we are inclined to receive new technologies and challenges for our client's demands, pleasure, and satisfaction because the connection is our first aim.
+I'll give you a quick rundown of the kind of obstacles we've all faced:
+
+1. Setting Goals
+- Developers need to have well-defined and specific goals based on the vision behind the web application. Knowing how websites and apps add value to your users can help you get your project on track. Once the goals are set, make sure that developers and team (everyone) are involved in the business and on the same page to discuss the goals with the team, if it makes sense to do so.
+
+2. Designing
+- Creating an attractive design is important, but it’s not easy. It requires creativity and a detailed understanding of UI / UX design, programming languages, and developer skills.
+
+3. Speed and Performance
+- The load time should not exceed 3 seconds. Otherwise, users may lose interest and leave the site. Improving the speed and performance of your website or application is one of the biggest challenges for developers.
+
+4. Working Frame
+- There are some frameworks, programming languages, and equipment to be had withinside the net improvement industry, for constructing net apps. Selecting the proper form of equipment and frameworks can sound easy, however, this is an undertaking many builders fail to apprehend withinside the early ranges of improvement.
+
+5. Safety and Security
+- There are many ways to improve the security of your website or app. Make sure your web developer is considering all possible security measures during the development process.</p>
+
+
+
+<b>What is your communication process that you will be implementing if we work with you? From the on-boarding to the completion of the project or task.</b>
+
+<p>We are available for daily communication via Skype, email, phone calls, and so on.
+Furthermore, we employ project management platforms such as Asana, Slack, Jira, and others to finish projects on time. Also, hold weekly meetings with clients to keep track of progress and tasks.</p>
+
+
+
+<b>What are the services you offer? 2. Kindly send here your official Website Link. 3. How many developer you have on your team? 4. What development skills do you possess on your team?</b>
+
+<p>(I Represent the) I'm the CEO of [company name], we are helping companies in the US and Europe region with software, web, and app development as well as dedicated IT resources. You can read more about us on our website: [profile link]
+
+Our group consists of programmers. More than 100 developers, designers, & Testers are working with a variety of technologies at our company including Wordpress, PHP, Laravel, React, Node, Angular, Python, etc. for web development and Kotlin, Core java, Swift, & React native for App'n development. They are experienced and capable of doing your assignment perfectly.</p>
+
+
+
+<b>What are the 3 Major things to ensure that website projects/tasks can be completed & delivered on time base on the clients target date? Please share your process & experience.</b>
+
+<p>1. Separate jobs into equal milestones.
+2. Assign daily responsibilities and keep track of daily updates
+3. Following the completion of each milestone, we seek a review of work and input, and we begin working on the next milestone. When we get a change in finished work, bench resources work on it so that ongoing work is not impacted.
+
+This way, we avoid delivery delays and always meet our deadlines.</p>
+
+
+
+<b></b>
+
+<p></p>
