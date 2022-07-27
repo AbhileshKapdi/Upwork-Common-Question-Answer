@@ -304,3 +304,14 @@ I follow the freestyle writing pattern. This is the most comfortable pattern to 
 	
 I write in a freestyle manner. This is the most comfortable design for me, together with all of the components of the fundamental structure. So I write in a pattern based on the occasion and intended audience.</p>
 
+
+
+
+<b>Ways to incorporate feedback and edits into your work are as follows:</b>
+
+<p>1. Accepting feedback with an open mind - Feedbacks always makes work better. Things can be improved through feedback and opinions from others. Accepting and applying the feedback to your work makes your work flawless.
+
+2. Asking a professional for feedback - Expertise opinions are always helpful for the betterment of the work. Inculcating their pieces of advice is always better.
+
+3. Being grateful for the feedback- Thanking people for their valuable feedback and opinion is necessary because it makes them feel important. Being enthusiastic about receiving feedback and ways to improve is important.</p>
+
