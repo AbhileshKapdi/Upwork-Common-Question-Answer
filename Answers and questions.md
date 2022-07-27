@@ -293,3 +293,14 @@ moreover, I'm ready to give a paid test to show you my skills.</p>
 <b>We initially try out new developers with a fixed price test project before switching to hourly work. Will you be ok with this?</b>
 
 <p>We will be happy to give paid test as you can see our performance and we can test our skills for your project too.</p>
+
+
+
+<b>Which format of writing do you prefer the most?</b>
+
+<p>Every writer has his/ her preferences and interests. So different writers choose different styles of writing. I like to be creative and always keen to explore something new in my writing skills and prefer to write in a new format.
+
+I follow the freestyle writing pattern. This is the most comfortable pattern to me along with all the components of the basic structure. So, I write in the pattern according to situations and target audience.
+	
+I write in a freestyle manner. This is the most comfortable design for me, together with all of the components of the fundamental structure. So I write in a pattern based on the occasion and intended audience.</p>
+
