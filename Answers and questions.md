@@ -366,6 +366,21 @@ This way, we avoid delivery delays and always meet our deadlines.</p>
 
 
 
-<b></b>
+<b>How long have you been a wordpress developer</b>
+<p>As I told in the cover letter that I'm in this field for the past 15 years. Including 8+ years of experience in Wordpress</p>
 
-<p></p>
+
+
+<b>What time you usually work?</b>
+
+<p>I usually work on 10 a.m. to 7 p.m. IST, Sometimes I can manage to work at other time if a client request to do so.
+And I'm pleased to tell you I can work from 8.30 a.m. to 5 p.m. on Germany time (GMT+2)</p>
+
+
+
+<b>What do you think is important when it comes to websites?</b>
+
+<p>When it comes to website creation, the most essential to keep in mind is to make it SEO-optimized and user-friendly.
+Furthermore, it should be appealing with a good color scheme so that users like using your site, and there should be an easy call to action to achieve our goals.</p>
+
+
