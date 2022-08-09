@@ -365,8 +365,21 @@ Our group consists of programmers. More than 100 developers, designers, & Tester
 This way, we avoid delivery delays and always meet our deadlines.</p>
 
 
+<b>What is your onboarding process?</b>
+	
+<p>When we are creating a website from the ground up
+
+- Recognize the necessity
+- Create a thorough proposal
+- Determine the schedule and cost
+- Form a team.
+- Set up tools
+- Go for it</p>
+
+
 
 <b>How long have you been a wordpress developer</b>
+
 <p>As I told in the cover letter that I'm in this field for the past 15 years. Including 8+ years of experience in Wordpress</p>
 
 
