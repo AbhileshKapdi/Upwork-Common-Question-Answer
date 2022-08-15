@@ -384,6 +384,27 @@ This way, we avoid delivery delays and always meet our deadlines.</p>
 
 
 
+<b>Describe recent your experience in completing a project similar to this one.</b>
+
+<p>I’ve worked on similar web development projects before. Our goal was to Make it user-friendly, Responsive to every device & Should load quickly, and my primary role was Project Management. I cooperated with four other people in the team, and believe the structure of work and the agile project management we applied. Anyway, I understand the biggest threats of similar projects and the level of commitment one needs to have to complete them within the given time frame. I believe to be ready to do so and cannot wait to work on similar projects in your company.</p>
+
+
+<p>I have no experience and I honestly think it is better for you. Just think about it for a moment. You have excellent processes in place for everything, you know how to achieve desired results. Employee like me is like a clean sheet, unspoiled by experience from previous jobs. I am not going to try to do things my way, or to reinvent the wheel. On the contrary, I am ready to listen and learn and eventually do things your way, the one you know works, and brings the desired results. Isn’t that better than hiring somebody experienced who would argue with the managers, and disagree with everything every day? The decision is yours…</p>
+
+
+<p>I think my portfolio does this job better than I do. Just have a look at this and this project [you show them your portfolio, either online or in print]. As you can see, I’ve worked on similar applications and projects to what you do in your company. I led the entire team, and was responsible for delivering the project on time, and meeting every objective we had. As you can see on [this and this example], we worked on [this and this thing] and reached [this and that result]. Do you have any questions about the projects, or do you want me to elaborate on my role any further?</p>
+
+
+
+<b>What’s the best project you’ve ever worked on?</b>
+
+
+<p>My response may surprise you: my failed mobile app development project is the best one I've ever worked on. The reason is simple: working on this project taught me so much. I made many mistakes, underestimated market research, and at the time I was a project manager with two node developers and one react developer but didn't hire a good tester early enough, so we eventually released a site that was deemed to crash in some cases. But it was a great experience. When you fail, you learn the most, and I believe this project helped me become a better product manager.</p>
+
+<p>In my opinion, there’s nothing like best or worst project. Sometimes you succeed to reach your goals, and other times you fail. At the end of the day, the final outcome is never entirely in your hands. Market trends, moves of your competitors, work of other team members–it all has an impact on each project. Instead of considering projects successes or failures, I simply consider each one a learning experience. I try my best in work, but I do not well much on either successes or failures. Each project I worked on was great, because it helped me to become better in what I do, to move forward. And I always tried my best. Whether it eventually panned out in the way we wanted is of secondary importance to me…</p>
+
+
+
 <b>What time you usually work?</b>
 
 <p>I usually work on 10 a.m. to 7 p.m. IST, Sometimes I can manage to work at other time if a client request to do so.
