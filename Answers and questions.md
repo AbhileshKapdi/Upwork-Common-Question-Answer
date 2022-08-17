@@ -418,3 +418,11 @@ And I'm pleased to tell you I can work from 8.30 a.m. to 5 p.m. on Germany time 
 Furthermore, it should be appealing with a good color scheme so that users like using your site, and there should be an easy call to action to achieve our goals.</p>
 
 
+
+<b>Please confirm you understand we are looking for a gold standard of design that is NOT based on existing templates.</b>
+
+<p>I understand that you require a core designer rather than a designer who customizes pre-existing design templates.
+I can conduct a paid test to demonstrate my abilities solely for you. I've been designing websites for over ten years and counting.
+<p/>
+
+
