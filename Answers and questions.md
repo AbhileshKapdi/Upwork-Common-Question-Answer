@@ -426,3 +426,9 @@ I can conduct a paid test to demonstrate my abilities solely for you. I've been 
 <p/>
 
 
+
+<b>PM, how do you manage a business in 3 different industries - Technology, Marketing, and Finance?</b>
+
+<p>I manage experts and the experts manage that particular business.</p>
+
+
