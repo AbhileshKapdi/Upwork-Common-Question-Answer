@@ -432,3 +432,67 @@ I can conduct a paid test to demonstrate my abilities solely for you. I've been 
 <p>I manage experts and the experts manage that particular business.</p>
 
 
+
+<b>Could you share a link to some design system components you built in the past?</b>
+
+<p>Sure! here are the link to most design work I've done recently using Components
+(Figma links)</p> 
+
+
+
+<b>Have you worked in the past with Figma?</b>
+
+<p>Yes!
+At now I'm using only Figma for my UI/UX design.
+
+Here are some links as others are NDA protected.
+(Figma links not more then 3)</p>
+
+
+
+<b>Do you have any experience with jQuery? Please share a few words.</b>
+
+<p>Yes!
+As I said, I have worked using JQuery for 5+ years & counting.
+jQuery functions like
+.toggleClass()
+.hide()
+.show()
+.animate()
+.slideDown()</p>
+
+
+
+<b>If you have 2 services e.g. service 1 & service 2, both doing same actions, but only different endpoint. How can you prevent duplicate code?</b>
+
+<p>In order to avoid code duplication, we are going to design a specific layer dedicated to the handling of external requests where we can place the definitions of all the needed API requests. This layer aims to divide where API requests are defined from where they are used to make calls. </p>
+
+
+
+<b>How do you ensure good code quality? Name few points</b>
+
+<p>The following points will help me ensure high-quality code on the front end.
+
+- by comments
+- by API call should be in one file
+- by Creating functions for API Call
+
+For general programming, I keep this in my mind.
+- Naming conventions.
+- Spaces optimization.
+- Architectural patterns.
+- Add helpful comments</p>
+
+
+
+<b>Include a link to a project source code or piece of code you made and see as good code quality. C#, Java and TypeScript allowed</b>
+
+<p>At this point of discussion, I can't share my git Code to show you my coding skills as it is NDA Protected.
+We can share it at the time of project commencement.
+moreover, I'm ready to give a paid test to show you my skills.</p>
+
+
+
+<b>How can you be confident to put your code in production? What helps with feeling safe to deploy and run your code?</b>
+
+<p>We prioritize testing sufficiently. So, first and foremost, we push code to the development server. If everything works properly, proceed to production after testing and client approval.</p>
