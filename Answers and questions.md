@@ -191,6 +191,8 @@ Photoshop, Designing, HTML5, CSS3, jQuery, Java Script, Bootstrap, PHP and WordP
 
 
 
+
+
 <b>Have you worked on any large-scale production level Laravel applications?</b>
 
 <p>Yes, I have, I have to built Laravel APIs for a Jobsite that had over million searches in a month. Unfortunately, that startup could not survive covid. In that project I had used AWS cloud search for searching jobs with keywords. All the APIs were build on microservices.</p>
@@ -496,3 +498,33 @@ moreover, I'm ready to give a paid test to show you my skills.</p>
 <b>How can you be confident to put your code in production? What helps with feeling safe to deploy and run your code?</b>
 
 <p>We prioritize testing sufficiently. So, first and foremost, we push code to the development server. If everything works properly, proceed to production after testing and client approval.</p>
+
+
+
+<b>Describe how do you build Wordpress blocks.</b>
+
+<p>This is the simplest way, I'll utilize the WordPress registerBlockType function from the wordpress/blocks ReactJS package. ReactDOMjs will also be used.
+We have also other options without using plugins!</p>
+
+
+<b>What programming languages are you most familiar with and rate your skill level on a scale from 1-10 with 1 being beginner and 10 being expert.</b>
+
+<p>As I mentioned, I have extensive expertise in developing websites and have worked with HTML5/CSS3/JS, Node, react, WordPress, PHP, Python, and Angular over the course of my 10+ year career.
+
+In every tech, I can give myself an 8 out of 10. cited earlier</p>
+
+
+<b>What techniques do you use to transform ideas into a functional website?</b>
+
+<p>For that, we employ the AGILE development methodology.
+Furthermore, we prioritize requirements using the MoSCoW technique.
+
+Basic steps in our process:
+
+- Main conversation
+- The guide price
+- Design and research
+- Stage of development
+- Project start-up
+- post-release assistance</p>
+
